@@ -1,5 +1,9 @@
+<!---
 <p align="center">
 <img src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Description" width="400"> </p>
+-->
+
+
 
 
 # <p align="center">Hi, I'm Milo 👋. I am a Data Scientist.</p>
@@ -11,18 +15,18 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
-Currently building powerful AI models with XGboost, Nueral Networks, and Large Language Models (LLMs) to provide value in business and sports .
 
 
-Click [here](example.com) to explore my professional work. <!-- Replace with your actual portfolio link -->
+
+<!-- Click [here](example.com) to explore my professional work.  Replace with your actual portfolio link -->
 
 
 ## Projects
 
 
-Here's a selection of recent open-source projects I've contributed to:
-- **[Combination of causal and predictive analytics for examining student backgrounds and achievements](https://github.com/your-repo-link)**.
-- **[Forecasting social media sentiment](https://github.com/your-repo-link)**.
+Here's a selection of projects I've done:
+- **[Combination of causal and predictive analytics for examining student backgrounds and achievements](https://github.com/milooranm/TraditionalvsCausalAnalytics.git)**.
+- **[Forecasting social media sentiment](https://github.com/milooranm/ForecastingSentiment.git)**.
 <!--- **[Developed an NLP-based chatbot to interact with users and provide instant responses](https://github.com/your-repo-link)**.
 - **[Created a data consumption forecasting project using LSTM and GRU](https://github.com/your-repo-link)**.
 - **[A data pipeline analyzing LinkedIn job postings using Apache Kafka, Spark, deployed on AWS](https://github.com/your-repo-link)**.
