@@ -25,7 +25,7 @@
 
 
 Here's a selection of projects I've done:
-- **[Injury prediction in runners with pipeline to make predictions on user Garmin activity data](https://github.com/milooranm/publicprojectsMilo/RunningVolume_injury.git)**
+- **[Injury prediction in runners with pipeline to make predictions on user Garmin activity data](https://github.com/milooranm/publicprojectsMilo/tree/main/RunningVolume_Injury)**
 - **[Combination of causal and predictive analytics for examining student backgrounds and achievements](https://github.com/milooranm/TraditionalvsCausalAnalytics.git)**.
 - **[Forecasting social media sentiment](https://github.com/milooranm/ForecastingSentiment.git)**.
 <!--- **[Developed an NLP-based chatbot to interact with users and provide instant responses](https://github.com/your-repo-link)**.
